@@ -1,7 +1,9 @@
 # project-01
 Project 1
+
 What kind of movie should we make that has the potential to make the most money?
 A Disney Superhero movie that is Sci-fi, Action, and Adventure, over 2 hours long, PG-13, and live-action.
+
 What rating should it have?
 R is out of the question and has a very selective audience. If we do animation G or PG would be a good option, keeping it light and family friendly. PG-13 is the most highly profitable over the years and it is a good rating for live action.
 
