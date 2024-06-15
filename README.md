@@ -16,47 +16,47 @@ How long should it be?
 We looked at ratings to see which rating from the highest grossing movies over the years.
 
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image4.png">
 </p>
 
 When looking at the progression of the word wide gross live action vs animation we can see the projection over the years how much they made to decide whether we should do an animated movie or a live action movie.
 
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image2.png">
 </p>
 
 To decide what production company to go with we looked at the average worldwide gross for each production company.
 
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image16.png">
 </p>
 
 For what genre and sub genres we should do. We looked at all the genres to see which genres had the highest gross.
 
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image9.png">
 </p>
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image11.png">
 </p>
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image12.png">
 </p>
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image13.png">
 </p>
 This shows the highest grossing multiple group genres.
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image10.png">
 </p>
 
 We looked at the length of the movie compared to the highest gross.
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image14.png">
 </p>
 This shows the average movie lengthe per year as well.
 <p align="center">
-    <img width="1000" src="./images/image.png">
+    <img width="1000" src="./images/image15.png">
 </p>
 
 Looking at the charts we came to these conclusions for the answers to our questions.
