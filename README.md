@@ -28,7 +28,7 @@ When looking at the progression of the word wide gross live action vs animation 
 To decide what production company to go with we looked at the average worldwide gross for each production company.
 
 <p align="center">
-    <img width="1000" src="./images/image1.png">
+    <img width="1000" src="./images/image16.png">
 </p>
 
 For what genre and sub genres we should do. We looked at all the genres to see which genres had the highest gross.
