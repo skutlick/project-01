@@ -19,7 +19,6 @@ We looked at ratings to see which rating from the highest grossing movies over t
     <img width="1000" src="./images/image4.png">
 </p>
 
-
 When looking at the progression of the word wide gross live action vs animation we can see the projection over the years how much they made to decide whether we should do an animated movie or a live action movie.
 
 <p align="center">
